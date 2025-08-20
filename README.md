@@ -1,4 +1,4 @@
-# UCSD RoboCar Project - Team 09
+# 🏁 UCSD RoboCar Project - Team 09
 ## ECE MAE 148 - Autonomous Vehicles
 
 Reference: [UCSD ECE MAE 148 Course Website](https://ucsd-ecemae-148.github.io/)
